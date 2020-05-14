@@ -1,0 +1,2 @@
+# machine-learning
+Course project in C that takes input of real estate property values and their attributes (number of bedrooms, bathrooms, square footage, etc) and uses a one-shot machine learning algorithm to calculate the "weight" that these attributes have on property values. Uses these weights to predict property values of other homes. Implemented matrix inversion, multiplication, transposition, and Gauss-Jordan elimination algorithms to calculate weights.
